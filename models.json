@@ -1,0 +1,410 @@
+{
+  "gemma-3-4b": {
+    "supports_tools": false,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 131072
+  },
+  "gpt-oss-safeguard-20b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "glm-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 200000
+  },
+  "gemini-4-argon": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1048576
+  },
+  "nemotron-nano-9b-v2": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "qwen3-coder-30b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 262144
+  },
+  "ministral-3-8b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 131072
+  },
+  "claude-opus-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "minimax-m2": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 1000000
+  },
+  "gemini-3.8-flash": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1048576
+  },
+  "claude-haiku-4-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 200000
+  },
+  "nemotron-super-3-120b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 256000
+  },
+  "nemotron-nano-12b-v2-vl": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 128000
+  },
+  "minimax-m2.5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 196000
+  },
+  "devstral-2-123b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 256000
+  },
+  "gpt-oss-120b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "mistral-pixtral-large": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 128000
+  },
+  "mistral-large-2402": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 32000
+  },
+  "qwen3-coder-480b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "gpt-5.6-sol": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "qwen3-32b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 32768
+  },
+  "gpt-5.4": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "claude-opus-4-8": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "claude-sonnet-4-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 200000
+  },
+  "mixtral-8x7b": {
+    "supports_tools": false,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 32000
+  },
+  "gemma-3-12b": {
+    "supports_tools": false,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 131072
+  },
+  "gemini-3.5-flash-lite": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1048576
+  },
+  "nemotron-nano-3-30b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 256000
+  },
+  "deepseek-v3.1": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "gpt-6-sol": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "claude-sonnet-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "gpt-oss-20b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "mistral-7b": {
+    "supports_tools": false,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 32000
+  },
+  "gpt-5.5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "gpt-6-luna": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "claude-opus-4-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 200000
+  },
+  "voxtral-mini-3b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 32000
+  },
+  "claude-haiku-5-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "grok-4.6": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 500000
+  },
+  "claude-opus-4-6": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "gpt-5.6-terra": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "gpt-6-astra": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "deepseek-v3.2": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 164000
+  },
+  "gemma-3-27b": {
+    "supports_tools": false,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 131072
+  },
+  "ministral-3-3b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 131072
+  },
+  "nova-pro": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 300000
+  },
+  "voxtral-small-24b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 32000
+  },
+  "magistral-small": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 128000
+  },
+  "claude-sonnet-4-6": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "ministral-3-14b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 131072
+  },
+  "claude-opus-4-7": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "gpt-5.6-luna": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "minimax-m2.1": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 196000
+  },
+  "grok-4.7": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 500000
+  },
+  "glm-4.7-flash": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 202752
+  },
+  "gpt-6.1-sol": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1050000
+  },
+  "nova-micro": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "claude-sonnet-5-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "gpt-oss-safeguard-120b": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 128000
+  },
+  "nova-lite": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 300000
+  },
+  "kimi-k2.5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 256000
+  },
+  "glm-4.7": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": false,
+    "context_window": 203000
+  },
+  "claude-opus-5-5": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "qwen3-next-80b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 262144
+  },
+  "qwen3-235b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": false,
+    "context_window": 256000
+  },
+  "kimi-k3": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "nova-2-lite": {
+    "supports_tools": true,
+    "supports_reasoning": true,
+    "supports_vision": true,
+    "context_window": 1000000
+  },
+  "qwen3-vl-235b": {
+    "supports_tools": true,
+    "supports_reasoning": false,
+    "supports_vision": true,
+    "context_window": 256000
+  }
+}

@@ -1,0 +1,12 @@
+name: aiven-provider
+kind: model-provider
+version: 1.0.0
+# Pending: the plugin needs ProviderProfile.authoritative_catalog, which no Hermes release has
+# (README "Hermes core dependency"). This rejects every core up to and including 0.22.6, the
+# latest release; it is not a support claim for any later release. Set it to the first release
+# that contains the change before catalog admission.
+requires_hermes: ">0.22.6"
+description: Aiven AI Gateway inference provider
+author: Aiven
+requires_env:
+  - AIVEN_AI_GATEWAY_KEY
