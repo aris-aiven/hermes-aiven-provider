@@ -81,8 +81,8 @@ This behaviour needs a Hermes core change that no Hermes release contains yet:
 
 The core change is committed locally and unpublished. It is in the Hermes worktree
 `aiven-ai-gateway-provider`, on top of `origin/main`
-`6059d35108afd0afc2455dbe5e6bdac999933d1e` (local HEAD
-`457470e9ab485cc244c9d454a1ebd96a2e726a29`), and it is not specific to Aiven.
+`353c9a914b9242a1dbeb0c33d6de3bd5ac0b1719` (local HEAD
+`d73d0b08f7db0c72cbd0cf012ab072225e1bb4ff`), and it is not specific to Aiven.
 Without it, constructing the profile fails with `TypeError:
 ProviderProfile.__init__() got an unexpected keyword argument
 'authoritative_catalog'`.
